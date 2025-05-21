@@ -1,0 +1,8 @@
+flask
+flask_cors
+torch
+faiss-cpu
+Pillow
+pandas
+tqdm
+git+https://github.com/openai/CLIP.git
